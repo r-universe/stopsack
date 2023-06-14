@@ -8,3 +8,8 @@
 	url = https://github.com/stopsack/batchtma
 	shallow = true
 	registered = true
+[submodule "risks"]
+	path = risks
+	url = https://github.com/stopsack/risks
+	shallow = true
+	registered = true
