@@ -5,6 +5,9 @@
 [submodule "batchtma"]
 	path = batchtma
 	url = https://github.com/stopsack/batchtma
+[submodule "rifttable"]
+	path = rifttable
+	url = https://github.com/stopsack/rifttable
 [submodule "risks"]
 	path = risks
 	url = https://github.com/stopsack/risks
